@@ -6046,17 +6046,13 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:0 CUID="10594" tvg-name="ZAROK SORANÎ" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="turkish",ZAROK SORANÎ
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:0 CUID="10670" tvg-name="THMANAYH 1 4K H265" tvg-logo="https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw=w600-h300-pc0xffffff-pd" group-title="THMANAYH ",THMANAYH 1 4K H265
-http://sa.savpn.xyz/live/78965415869/780928/710135.m3u8
 
-#EXTINF:0 CUID="10671" tvg-name="THMANAYH 2 4K H265" tvg-logo="https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw=w600-h300-pc0xffffff-pd" group-title="THMANAYH ",THMANAYH 2 4K H265
-http://sa.savpn.xyz/live/78965415869/780928/769078.m3u8
 
-#EXTINF:0 CUID="10672" tvg-name="THMANAYH 3 4K H265" tvg-logo="https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw=w600-h300-pc0xffffff-pd" group-title="THMANAYH ",THMANAYH 3 4K H265
-http://sa.savpn.xyz/live/78965415869/780928/841733.meu8
 
-#EXTINF:0 CUID="35443" tvg-name="BEIN SPPORT MAX 1 4K" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPPORT MAX 1 4K
-http://lukatv.net:8880/312912056052/152738717920/558248
+
+
+
+
 
 #EXTINF:0 CUID="35444" tvg-name="BEIN SPORT MAX 2 4K" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 2 4K
 http://lukatv.net:8880/312912056052/152738717920/558249
