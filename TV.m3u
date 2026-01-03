@@ -1,6 +1,6 @@
 #EXTINF:0 CUID="8490" tvg-name="🌐www.Karwan.hexat.com🌐" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/BackgroundEraser_20260103_210759284(1).png" group-title="KURDISH ",🌐www.KarwanR9.hexat.com🌐
 #EXTM3U
-#EXTINF:-1,www.KarwanR9.hexat.com
+#EXTINF:-1,🌐www.KarwanR9.hexat.com🌐
 https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/playlist.m3u8
 #EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="KURDISH ",AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
