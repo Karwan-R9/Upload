@@ -287,7 +287,7 @@ http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:0 CUID="8590" tvg-name="SHAR TV" tvg-logo="https://i.postimg.cc/GLy7cXVK/shar.png" group-title="KURDISH ",SHAR TV
 https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
 
-#EXTINF:0 CUID="8591" tvg-name="ALA" tvg-logo="https://i.postimg.cc/54qVhXT2/ALA.png" group-title="KURDISH ",ALA
+#EXTINF:0 CUID="8591" tvg-name="ALA" tvg-logo="https://i.postimg.cc/54qVhXT2/ALA.png" group-title="ALWAN SPORT 4k ",ALA
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
 
 #EXTINF:0 CUID="8592" tvg-name="HALABJA  TV" tvg-logo="https://i.postimg.cc/ChRybCtn/halabja.png" group-title="KURDISH ",HALABJA  TV
