@@ -1,0 +1,30 @@
+﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr.xml"
+
+############################
+# 🔵 KURDISH TV CHANNELS
+############################
+
+#EXTINF:-1 tvg-id="rudaw.kr" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="📺 KURDISH TV",RUDAW HD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="kurdsat.kr" tvg-name="KURD SAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Kurdsat_logo.png" group-title="📺 KURDISH TV",KURD SAT HD
+https://example.com/kurdsat.m3u8
+
+#EXTINF:-1 tvg-id="k24.kr" tvg-name="K24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/K24_logo.png" group-title="📺 KURDISH TV",K24 HD
+https://example.com/k24.m3u8
+
+
+############################
+# 🔴 NEWS CHANNELS
+############################
+
+#EXTINF:-1 tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng_logo.svg/512px-Aljazeera_eng_logo.svg.png" group-title="📰 NEWS",AL JAZEERA
+https://example.com/aljazeera.m3u8
+
+
+############################
+# 🟢 SPORTS CHANNELS
+############################
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bein_sports_logo.png" group-title="⚽ SPORTS",BEIN SPORTS 1
+https://example.com/beinsports1.m3u8
