@@ -310,16 +310,21 @@ https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chun
 
 
 
+
+
+
+
+
 #EXTINF:0 CUID="8511" tvg-name="🌐KarwanR9.hexat.com🌐" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/karwan.png" group-title="Ayni | ئاینی",🌐KarwanR9.hexat.com🌐
 https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/playlist.m3u8
 
-#EXTINF:0 CUID="9209" tvg-name="Al Quran Al Kareem TV (1080p)" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Ayni | ئاینی",Al Quran Al Kareem TV (1080p)
+#EXTINF:0 CUID="9209" tvg-name="Al Quran Al Kareem TV (1080p)" tvg-logo="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Ayni | ئاینی",Al Quran Al Kareem TV (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
-#EXTINF:0 CUID="9345" tvg-name="Iqraa Quran (1080p)" tvg-id="IqraaQuran.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Ayni | ئاینی",Iqraa Quran (1080p)
+#EXTINF:0 CUID="9345" tvg-name="Iqraa Quran (1080p)" tvg-logo="IqraaQuran.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Ayni | ئاینی",Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 
-#EXTINF:0 CUID="9338" tvg-name="Holy Quran Radio Nablus (720p)" tvg-id="HolyQuranRadioNablus.ps" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Ayni | ئاینی",Holy Quran Radio Nablus (720p)
+#EXTINF:0 CUID="9338" tvg-name="Holy Quran Radio Nablus (720p)" tvg-logo="HolyQuranRadioNablus.ps" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Ayni | ئاینی",Holy Quran Radio Nablus (720p)
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 
 #EXTINF:0 CUID="10211" tvg-name="Al Sunnah Al Nabawiyah" tvg-logo="https://i.imguR.com/cuNlrK6.jpg" group-title="Ayni | ئاینی",Al Sunnah Al Nabawiyah
