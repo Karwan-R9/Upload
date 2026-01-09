@@ -461,19 +461,7 @@ http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/playlist.m3u8
 
 
-#EXTINF:0 CUID="10754" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Sports | وەرزش",BEIN SPORTS
-http://bluedk.xyz:8880/336752622217/695bf465e8228.24998/506104
-
-
-#EXTINF:0 CUID="46921" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Sports | وەرزش",beIN  UHD
-http://bluedk.xyz:8880/336752622217/695bf465e8228.24998/506104
-
-
-#EXTINF:0 CUID="58812" tvg-name="Sports" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Sports | وەرزش",AVA SPORT HD
-http://bluedk.xyz:8880/336752622217/695bf465e8228.24998/550880
-
-
-#EXTINF:0 CUID="10752" tvg-name="AVA Sport 4k" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="Sports | وەرزش",AVA Sport 4k
+#EXTINF:0 CUID="10752" tvg-name="AVA Sport 4K" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="Sports | وەرزش",AVA Sport 4k
 http://109.123.245.192/Avasport11/index.m3u8
 
 
@@ -487,10 +475,6 @@ http://109.123.245.192/bein111/index.m3u8
 
 #EXTINF:0 CUID="10751" tvg-name="NRT Sport HD" tvg-logo="https://i.postimg.cc/bypd9X7q/nrt-sport.png" group-title="Sports | وەرزش",NRT Sport HD
 http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358220?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-
-
-#EXTINF:0 CUID="58816" tvg-name="ARO SPORT" tvg-logo="https://i.postimg.cc/zqCYYkVX/ARO.png" group-title="Sports | وەرزش",ARO SPORT
-http://bluedk.xyz:8880/336752622217/695bf465e8228.24998/550895
 
 
 #EXTINF:0 CUID="22883" tvg-name="LD SPORT 4K" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Sports | وەرزش",LD SPORT 4K
