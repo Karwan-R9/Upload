@@ -37,7 +37,7 @@ http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 
 
 #EXTINF:0 CUID="8521" tvg-name="GALI KURDISTAN" tvg-logo="https://i.postimg.cc/SmhvBS3N/GK.png" group-title="Kurdish | کوردی",GALI KURDISTAN
-https://silicon.kurdlive.xyz/gk/gksat/chunklist_w139999815.m3u8
+http://bluedk.xyz:8880/356498321176/6963f11042937.16369/287892
 
 
 #EXTINF:0 CUID="8523" tvg-name="KURDISTAN TV" tvg-logo="https://i.postimg.cc/Wjcg6dk3/KDTV.png" group-title="Kurdish | کوردی",KURDISTAN TV
@@ -462,6 +462,8 @@ http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 
 
 
+
+
 #EXTINF:0 CUID="8511" tvg-name="🌐KarwanR9.hexat.com🌐" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/karwan.png" group-title="Sports | وەرزش",🌐KarwanR9.hexat.com🌐
 https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/playlist.m3u8
 
@@ -470,16 +472,8 @@ https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/playlist.m3
 http://109.123.245.192/Avasport11/index.m3u8
 
 
-#EXTINF:0 CUID="23137" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Sports | وەرزش",AVA SPORT HD
-http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358221?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-
-
 #EXTINF:0 CUID="10751" tvg-name="NRT Sport HD" tvg-logo="https://i.postimg.cc/bypd9X7q/nrt-sport.png" group-title="Sports | وەرزش",NRT Sport HD
 http://109.123.245.192/bein111/index.m3u8
-
-
-#EXTINF:0 CUID="10751" tvg-name="NRT Sport HD" tvg-logo="https://i.postimg.cc/bypd9X7q/nrt-sport.png" group-title="Sports | وەرزش",NRT Sport HD
-http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358220?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
 
 
 #EXTINF:0 CUID="22883" tvg-name="LD SPORT 4K" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Sports | وەرزش",LD SPORT 4K
