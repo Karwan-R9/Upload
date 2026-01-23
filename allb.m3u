@@ -1,4 +1,5 @@
-﻿#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://i.postimg.cc/dJbQQMnJ/Bein Sports.png" group-title="Sports | وەرزش",Bein Sports
+﻿#EXTM3U
+#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://i.postimg.cc/dJbQQMnJ/Bein Sports.png" group-title="Sports | وەرزش",Bein Sports
 http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13001.m3u8
 
 
