@@ -521,51 +521,8 @@ http://109.123.245.192/Avasport11/index.m3u8
 http://109.123.245.192/bein111/index.m3u8
 
 
-
-
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 1
-http://207.180.229.26/stream.php?id=67338
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 1 4K
-http://207.180.229.26/stream.php?id=67339
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 2
-http://207.180.229.26/stream.php?id=67340
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 2 4K
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13005.m3u8
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 3
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13010.m3u8
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 3 4K
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13009.m3u8
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 4
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13012.m3u8
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 4 4K
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13012.m3u8
-
-#EXTINF:0 CUID="10718" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 5
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13018.m3u8
-
-#EXTINF:0 CUID="10718" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 5 4K
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13017.m3u8
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 6
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13022.m3u8
-
-#EXTINF:0 CUID="10752" tvg-name="Bein Sports" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/bein.jpeg" group-title="Sports | وەرزش",Bein Sports 4K
-http://dns.ultrav.me/live/M_IhabDev/UltraTVCAFM/13021.m3u8
-
-
-
 #EXTINF:0 CUID="22883" tvg-name="LD SPORT 4K" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Sports | وەرزش",LD SPORT 4K
 http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358229?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-
-
 
 
 #EXTINF:0 CUID="8813" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://i.postimg.cc/ZnQFR0Xr/C5-F1284-A-C149-416-E-83-DE-AECA18-BADE1-A.png" group-title="Sports | وەرزش",ELEVEN SPORTS 2
@@ -743,7 +700,7 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-name="RealMadridTV.es@SD" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png" group-title="Sports | وەرزش",Real Madrid TV (1080p)
 http://176.65.146.237:8401/play/a0ak/index.m3u8
 
-#EXTINF:-1 tvg-name="GolClassics.es@SD" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="Sports",Gol Classics
+#EXTINF:-1 tvg-name="GolClassics.es@SD" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="Sports | وەرزش",Gol Classics
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
 
