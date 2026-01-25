@@ -16,7 +16,7 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 
-#EXTINF:0 CUID="48091" tvg-name="Ku: NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="Kurdish | کوردی",Ku: NRT HD
+#EXTINF:0 CUID="48091" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="Kurdish | کوردی",Ku: NRT HD
 http://bluedk.xyz:8880/356498321176/6963f11042937.16369/287878
 
 
@@ -212,10 +212,6 @@ http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
 
 
-#EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurdish | کوردی",MMN SPORT
-http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-
-
 #EXTINF:0 CUID="8607" tvg-name="AVAR TV" tvg-logo="https://i.postimg.cc/PHF0gvx8/AVAR.png" group-title="Kurdish | کوردی",AVAR TV
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 
@@ -300,7 +296,7 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 
 
-#EXTINF:0 CUID="8504" tvg-name="SPI TV" tvg-logo="https://i.postimg.cc/8zcXPNJq/Pics-Art-25-08-01-20-03-35-104.png" group-title="Kurdish | کوردی",SPI SPORT TV
+#EXTINF:0 CUID="8504" tvg-name="SPI TV" tvg-logo="https://i.postimg.cc/8zcXPNJq/Pics-Art-25-08-01-20-03-35-104.png" group-title="Kurdish | کوردی",SPI TV
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 
 
@@ -528,6 +524,10 @@ http://109.123.245.192/Avasport11/index.m3u8
 
 #EXTINF:0 CUID="22883" tvg-name="LD SPORT 4K" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Sports | وەرزش",LD SPORT 4K
 http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358229?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+
+
+#EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Sports | وەرزش",MMN SPORT
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 
 
 #EXTINF:0 CUID="10670" tvg-name="THMANAYH 1" tvg-logo="https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw=w600-h300-pc0xffffff-pd" group-title="Sports | وەرزش",THMANAYH 1
