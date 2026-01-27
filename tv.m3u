@@ -32,10 +32,6 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 
 
-#EXTINF:0 CUID="8520" tvg-name="Soran Entertainment" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/soran.png" group-title="🇹🇯 Kurdish | کوردی",Soran Entertainment
-http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-
-
 #EXTINF:0 CUID="8521" tvg-name="GALI KURDISTAN" tvg-logo="https://i.postimg.cc/SmhvBS3N/GK.png" group-title="🇹🇯 Kurdish | کوردی",GALI KURDISTAN
 http://bluedk.xyz:8880/356498321176/6963f11042937.16369/287892
 
@@ -46,6 +42,10 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w17909058
 
 #EXTINF:0 CUID="8518" tvg-name="KURDSAT" tvg-logo="https://i.postimg.cc/wgWn2wWv/kurdsat-1.png" group-title="🇹🇯 Kurdish | کوردی",KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+
+#EXTINF:0 CUID="8520" tvg-name="Soran Entertainment" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/soran.png" group-title="🇹🇯 Kurdish | کوردی",Soran Entertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 
 
 #EXTINF:0 CUID="8635" tvg-name="KURDMAX" tvg-logo="https://i.postimg.cc/zz8cPrbM/kurdmax.png" group-title="🇹🇯 Kurdish | کوردی",KURDMAX
@@ -84,6 +84,10 @@ http://109.123.245.192/Newline1/index.m3u8
 http://109.123.245.192/Newline2/index.m3u8
 
 
+#EXTINF:0 CUID="8537" tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/44C801bx/khak.png" group-title="🇹🇯 Kurdish | کوردی",KHAK TV
+http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
+
+
 #EXTINF:0 CUID="8532" tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="🇹🇯 Kurdish | کوردی",ZED TV
 http://109.123.245.192/Zedtv/index.m3u8
 
@@ -98,10 +102,6 @@ http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 
 #EXTINF:0 CUID="8528" tvg-name="RAVAND-HD" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="🇹🇯 Kurdish | کوردی",RAVAND-HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
-
-
-#EXTINF:0 CUID="8537" tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/44C801bx/khak.png" group-title="🇹🇯 Kurdish | کوردی",KHAK TV
-http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
 
 
 #EXTINF:0 CUID="8542" tvg-name="ISHTAR TV" tvg-logo="https://i.postimg.cc/gzCxv2tk/ISHTAR.png" group-title="🇹🇯 Kurdish | کوردی",ISHTAR TV
