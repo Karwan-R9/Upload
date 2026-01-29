@@ -16,6 +16,10 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 
+#EXTINF:0 CUID="48091" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT HD.png" group-title="🇹🇯 Kurdish | کوردی",NRT HD
+http://lukatv.net:8880/375509625021/697b02f628340.16012/287889
+
+
 #EXTINF:0 CUID="48091" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="🇹🇯 Kurdish | کوردی",NRT HD
 http://bluedk.xyz:8880/356498321176/6963f11042937.16369/287878
 
@@ -507,7 +511,7 @@ https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/playlist.m3
 http://109.123.245.192/bein111/index.m3u8
 
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4K" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="⚽ Sports | وەرزش",AVA Sport
-http://forevertv.me:8080/Np7TMFIT3oz8to/x3w47HzTVLL9FC/438124
+http://xxtv.me:8080/live/6675443218889/X56jDXzgEiStYZ/358221.m3u8
 
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4K" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="⚽ Sports | وەرزش",AVA Sport 4k
 http://109.123.245.192/Avasport11/index.m3u8
