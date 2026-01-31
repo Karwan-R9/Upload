@@ -735,6 +735,11 @@ http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/78396.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:0 CUID="8511" tvg-name="🌐KarwanR9.hexat.com🌐" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/KR9.gif" group-title="» ALWAN SPORTS",🌐KarwanR9.hexat.com🌐
 
 https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/video/playlist.m3u8
@@ -770,6 +775,22 @@ http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/203553.m3u8
 http://maveniptv.net:80/live/ahmedELmetwally85/ah8759946/247647.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-name="" tvg-name="AlKass 1" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/alkass.jpeg" group-title="» Alkass Sports",AlKass 1
+http://fastopen.live:8080/sasodaniel2/GTG53de3f3erFR/106996
+
+
+#EXTINF:-1 tvg-name="" tvg-name="Alkass 2" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/alkass.jpeg" group-title="» AlKass Sports",AlKass 2
+http://fastopen.live:8080/sasodaniel2/GTG53de3f3erFR/106997
+
+
+#EXTINF:-1 tvg-name="" tvg-name="Alkass 3" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/alkass.jpeg" group-title="» AlKass Sports",AlKass 3
+http://fastopen.live:8080/sasodaniel2/GTG53de3f3erFR/106998
+
+#EXTINF:-1 tvg-name="" tvg-name="Alkass 4" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/alkass.jpeg" group-title="» AlKass Sports",AlKass 4
+http://fastopen.live:8080/sasodaniel2/GTG53de3f3erFR/106999
 
 
 
