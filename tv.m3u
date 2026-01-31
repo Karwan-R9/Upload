@@ -104,6 +104,10 @@ http://109.123.245.192/Zedplus/index.m3u8
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="🇹🇯 Kurdish | کوردی",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+
 #EXTINF:0 CUID="8528" tvg-name="RAVAND-HD" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="🇹🇯 Kurdish | کوردی",RAVAND-HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
 
@@ -166,6 +170,10 @@ https://live.kirkuklive.live/hls/stream/index.m3u8
 
 #EXTINF:0 CUID="8570" tvg-name="BAHA ENTERTAINMENT" tvg-logo="https://i.postimg.cc/Sqdk22x2/baha.png" group-title="🇹🇯 Kurdish | کوردی",BAHA ENTERTAINMENT
 http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
+
+
+#EXTINF:0 CUID="9421" tvg-name="NUBAR TV (1080p)" tvg-title="NUBARtv.iq" tvg-logo="https://i.imgur.com/h4LWHr5.png" group-title="🇹🇯 Kurdish | کوردی",NUBAR TV (1080p)
+http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 
 
 #EXTINF:0 CUID="8571" tvg-name="SHNA HD" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="🇹🇯 Kurdish | کوردی",SHNA HD
@@ -1506,11 +1514,7 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:0 CUID="9367" tvg-name="KTV Sport Plus (1080p)" tvg-title="KTVSportPlus.kw" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="📺 Arabic | عەرەبی",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
-#EXTINF:0 CUID="9368" tvg-name="Kurdistan TV (720p) Not 24/7" tvg-title="KurdistanTV.iq" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="📺 Arabic | عەرەبی",Kurdistan TV (720p) Not 24/7
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:0 CUID="9369" tvg-name="Kurdsat News (1080p)" tvg-title="KurdsatNews.iq" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="📺 Arabic | عەرەبی",Kurdsat News (1080p)
-https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
 
 #EXTINF:0 CUID="9370" tvg-name="Libya Al Wataniya (360p)" tvg-title="LibyaAlWataniya.ly" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="📺 Arabic | عەرەبی",Libya Al Wataniya (360p)
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
@@ -1665,8 +1669,6 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:0 CUID="9420" tvg-name="NourSAT (576p)" tvg-title="Noursat.lb" tvg-logo="https://i.imgur.com/6Zs5rx4.png" group-title="📺 Arabic | عەرەبی",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 
-#EXTINF:0 CUID="9421" tvg-name="NUBAR TV (1080p)" tvg-title="NUBARtv.iq" tvg-logo="https://i.imgur.com/h4LWHr5.png" group-title="📺 Arabic | عەرەبی",NUBAR TV (1080p)
-http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 
 #EXTINF:0 CUID="9422" tvg-name="Oman Althakafia (1080p)" tvg-title="OmanTVCultural.om" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="📺 Arabic | عەرەبی",Oman Althakafia (1080p)
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
@@ -2009,11 +2011,6 @@ https://afrafhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="AfraSeries.ir@SD" tvg-logo="https://i.postimg.cc/g0mb09vM/afra-series.jpg" group-title="📺 Farsi | فارسی",Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
-
-
-
-#EXTINF:-1 tvg-name="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="📺 Farsi | فارسی",4 Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-name="4UTV.tr@SD" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="📺 Farsi | فارسی",4U TV (720p)
