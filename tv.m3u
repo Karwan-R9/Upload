@@ -20,10 +20,6 @@ http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 http://lukatv.net:8880/375509625021/697b02f628340.16012/287889
 
 
-#EXTINF:0 CUID="48091" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="🇹🇯 Kurdish | کوردی",NRT HD
-http://bluedk.xyz:8880/356498321176/6963f11042937.16369/287878
-
-
 #EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="🇹🇯 Kurdish | کوردی",Channel 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 
@@ -71,9 +67,6 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 #EXTINF:0 CUID="8527" tvg-name="KURDMAX SHOW کرمانجی" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="🇹🇯 Kurdish | کوردی",KURDMAX SHOW کرمانجی
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
 
-
-#EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="🇹🇯 Kurdish | کوردی",NRT 2
-http://109.123.245.192/Nrt2/index.m3u8
 
 
 
