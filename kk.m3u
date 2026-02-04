@@ -1,0 +1,73 @@
+#EXTM3U
+
+#################### SPORTS ####################
+#EXTINF:-1 tvg-name="ALKASS 2" group-title="SPORTS",ALKASS 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-name="ALKASS 3" group-title="SPORTS",ALKASS 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-name="ALKASS 4" group-title="SPORTS",ALKASS 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-name="REAL MADRID TV" group-title="SPORTS",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-name="POST SPORT 1" group-title="SPORTS",POST SPORT 1
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-name="POST SPORT 2" group-title="SPORTS",POST SPORT 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-name="POST SPORT 4" group-title="SPORTS",POST SPORT 4
+https://ncdn.telewebion.com/sport1/live/playlist.m3u8
+#EXTINF:-1 tvg-name="POST SPORT 5" group-title="SPORTS",POST SPORT 5
+https://ncdn.telewebion.com/sport2/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Motor" group-title="SPORTS",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News" group-title="SPORTS",Sky Sports News
+https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max1.m3u8
+
+#################### MBC ####################
+#EXTINF:-1 tvg-name="MBC 1" group-title="MBC",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+#EXTINF:-1 tvg-name="MBC IRAQ" group-title="MBC",MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-name="MBC Bollywood" group-title="MBC",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#################### KIDS ####################
+#EXTINF:-1 tvg-name="Gewher Kids" group-title="KIDS",Gewher Kids
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="SPI KIDS" group-title="KIDS",SPI KIDS
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+#EXTINF:-1 tvg-name="ZAROK TV" group-title="KIDS",ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#################### QURAN ####################
+#EXTINF:-1 tvg-name="NRT QURAN" group-title="QURAN",NRT QURAN
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
+#EXTINF:-1 tvg-name="SHNA QURAN" group-title="QURAN",SHNA QURAN
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 tvg-name="ISTAR QURAN" group-title="QURAN",ISTAR QURAN
+https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
+
+#################### MUSIC KURDI ####################
+#EXTINF:-1 tvg-name="Gundi FM" group-title="MUSIC",Gundi FM
+http://gundifm.ozelip.com:7830/;
+#EXTINF:-1 tvg-name="Firat FM" group-title="MUSIC",Firat FM
+https://yayin.firatfm.com/firatfm/stream
+#EXTINF:-1 tvg-name="Dicle FM" group-title="MUSIC",Dicle FM
+https://dicle-rojavaradio.radioca.st/stream?type=http
+
+#################### DOCUMENTARY ####################
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC ABU DHABI" group-title="DOCUMENTARY",Nat Geo Abu Dhabi
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="DOCUMENTARY",Animal Planet
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-1 tvg-name="Asharq Documentary" group-title="DOCUMENTARY",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#################### GENERAL ####################
+#EXTINF:-1 tvg-name="KURD MAX" group-title="GENERAL",KURD MAX
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
+#EXTINF:-1 tvg-name="KURD CHANNEL" group-title="GENERAL",KURD CHANNEL
+https://northtelecom.live/KURD.m3u8
+#EXTINF:-1 tvg-name="Befrin TV" group-title="GENERAL",Befrin TV
+http://142.132.133.190:1935/live/befrintv/index.m3u8
+#EXTINF:-1 tvg-name="ROJHELAT TV" group-title="GENERAL",ROJHELAT TV
+https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
