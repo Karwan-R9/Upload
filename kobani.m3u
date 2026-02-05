@@ -1,14 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-name="RUDAW HD" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/rudaw.png" group-title="🇹🇯 Kurdish | کوردی",RUDAW HD
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-
-#EXTINF:0 tvg-name="ALKASS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTww0Ja0Wnp5H90QUAJbw6S2ho6tlCpTgWlWyZqKwfxzg" group-title=",BIEN+"ALKASS 3
+#EXTINF:0 tvg-name="ALKASS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTww0Ja0Wnp5H90QUAJbw6S2ho6tlCpTgWlWyZqKwfxzg" group-title="BIEN+",,ALKASS 3
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 
 
-#EXTINF:0 tvg-name="SAHAR " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoiahFirXQKaNxCnSCUY8eS3Pez3VMdk8uT_re9QGpNg&s=10" group-title="General",SAHAR
+#EXTINF:0 tvg-name="SAHAR " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoiahFirXQKaNxCnSCUY8eS3Pez3VMdk8uT_re9QGpNg&s=10" group-title="General"
 http://standard.pure-ott.pro:80/play/live.php?mac=00:1A:79:B4:F0:87&stream=588428&extension=ts
 
 
@@ -60,7 +57,7 @@ https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 https://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8
 
 
-#EXTINF:0 tvg-name="ALKASS 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpGIj1QLP76Ib6v_ar4tojW4SpgZeuZFZgWZJDI7YfA&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="ALKASS 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpGIj1QLP76Ib6v_ar4tojW4SpgZeuZFZgWZJDI7YfA&s=10" group-title="BIEN+",
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 
 
@@ -100,7 +97,7 @@ https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
 http://3.3lok3.site:5000/hls/demo-sports-1.m3u8?t=92748f789ce263730c7c8f4b11c6d86d
 
 
-#EXTINF:0 tvg-name="SHAID SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s" group-title="BIEN+"
+#EXTINF:0 tvg-name="SHAID SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s" group-title="BIEN+",
 http://167.235.89.164:8000/play/shahid-sport/index.m3u8
 
 
@@ -108,15 +105,15 @@ http://167.235.89.164:8000/play/shahid-sport/index.m3u8
 http://142.132.133.190:1935/live/befrintv/index.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" group-title="BIEN+",
 http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" group-title="BIEN+",
 https://balance.footballii.ir/hls2/bein1.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ&s=10" group-title="BIEN+",
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/6920.m3u8
 
 
@@ -300,7 +297,7 @@ http://41.205.93.154/ANIMALPLANET/index.m3u8
 http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
 
 
-#EXTINF:0 tvg-name="STARZ PLAY 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg&s" group-title="BIEN+"
+#EXTINF:0 tvg-name="STARZ PLAY 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg&s" group-title="BIEN+",
 http://109.205.166.68/2712/match_futbol_1/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
 
 
@@ -416,7 +413,7 @@ https://live20.bozztv.com/giatv/giatv-dostfm_ha88/dostfm_ha88/chunks.m3u8
 https://k.top4top.io/m_3562pryto0.mp4
 
 
-#EXTINF:0 tvg-name="STARZ PLAY 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg&s" group-title="BIEN+"
+#EXTINF:0 tvg-name="STARZ PLAY 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg&s" group-title="BIEN+",
 http://65.108.239.207/t1/index.m3u8
 
 
@@ -564,19 +561,19 @@ http://europlayiptv.de:8080/live/evrencirik/ud20jdzk1/109903.ts
 http://avrstream.com:1935/live/emantv/playlist.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSStI26rKKlcJUl_tBpAqK-PCRxdWowLKlyVzybwZ7aEg&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSStI26rKKlcJUl_tBpAqK-PCRxdWowLKlyVzybwZ7aEg&s=10" group-title="BIEN+",
 http://135.125.109.73:9000/beinsport7_.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMm7HDB71PXvqe0ulsvGIo5uS0kwNpFtYvgN_nl01rA&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMm7HDB71PXvqe0ulsvGIo5uS0kwNpFtYvgN_nl01rA&s=10" group-title="BIEN+",
 http://hdlocal.de:8080/live/tvcolor/edSp53dtjfLj/665019578.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfXrcxoWmT5dbMHZ5Mz7v0v1jZQzlFNxpjog5XYRUBw&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfXrcxoWmT5dbMHZ5Mz7v0v1jZQzlFNxpjog5XYRUBw&s=10" group-title="BIEN+",
 https://sdmax111.provegooott.com/4_.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQItlXUDzjh_BtgIN7UKfDsP3WE19CK3VJA&s" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQItlXUDzjh_BtgIN7UKfDsP3WE19CK3VJA&s" group-title="BIEN+",
 https://sdmax111.provegooott.com/37_.m3u8
 
 
@@ -596,7 +593,7 @@ http://baskhd.ddns.net:40/live/Derin/index.m3u8?checkedby:Halabja88
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 
 
-#EXTINF:0 tvg-name="SHAID SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s" group-title="BIEN+"
+#EXTINF:0 tvg-name="SHAID SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s" group-title="BIEN+",
 http://tetuansat.sbs/play/live.php?mac=00:1A:79:ce:9d:f7&stream=1585038&extension=ts&play_token=3Oz2lUIgW2
 
 
@@ -604,15 +601,15 @@ http://tetuansat.sbs/play/live.php?mac=00:1A:79:ce:9d:f7&stream=1585038&extensio
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gDM5bN54-x8RNg6OWRnX9-u_Sf78zyE9EX_qJEL3Rw&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gDM5bN54-x8RNg6OWRnX9-u_Sf78zyE9EX_qJEL3Rw&s=10" group-title="BIEN+",
 http://xcarscharge.pro:8080/bn34k/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyz92GKq5J30LBc7OVTrrh7aJ344Toyf_OC6zo8CNHQ&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyz92GKq5J30LBc7OVTrrh7aJ344Toyf_OC6zo8CNHQ&s=10" group-title="BIEN+",
 https://tv.fan7live.workers.dev/live/beINAR2/index.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyz92GKq5J30LBc7OVTrrh7aJ344Toyf_OC6zo8CNHQ&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyz92GKq5J30LBc7OVTrrh7aJ344Toyf_OC6zo8CNHQ&s=10" group-title="BIEN+",
 https://balance.footballii.ir/hls2/bein2.m3u8
 
 
@@ -672,7 +669,7 @@ https://stream-171.zeno.fm/9w1hu5g6g2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 https://stream-175.zeno.fm/6t5znwxgr2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2dDV6bnd4Z3IyenV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IldJTUUxWlJkU2VTQVpDZVl0VWk0TEEiLCJpYXQiOjE3NTU5MzIxODMsImV4cCI6MTc1NTkzMjI0M30.AcuSbF7fUuku-bf-Q2oaTfxLlk4F-LH2jFXCJeUhiV4&an-uid=7057475348654988358&dot-uid=0c542402009841ff1242052f&amb-uid=3679101723674315116&dbm-uid=CAESEIQzJn5AhEqdeGVRWN45SV4&cto-uid=d36e90cf-e764-49fd-b2e5-ebac19fafdb3-68a95fca-4951&bsw-uid=67e31976-e019-4af2-91d6-fa7d0d8192bb&dyn-uid=232192224908715391&ttd-uid=679f3823-76be-4f45-86c3-cbb2594b3407
 
 
-#EXTINF:0 tvg-name="ALKASS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTww0Ja0Wnp5H90QUAJbw6S2ho6tlCpTgWlWyZqKwfxzg" group-title="BIEN+"
+#EXTINF:0 tvg-name="ALKASS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTww0Ja0Wnp5H90QUAJbw6S2ho6tlCpTgWlWyZqKwfxzg" group-title="BIEN+",
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
 
@@ -716,31 +713,31 @@ https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/in
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
 
-#EXTINF:0 tvg-name="STARZ PLAY 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg&s" group-title="BIEN+"
+#EXTINF:0 tvg-name="STARZ PLAY 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg&s" group-title="BIEN+",
 http://webhop.xyz:8080/live/7337888877/5733778334/605120.ts
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYeHmm3R92x7I-BIdI-3RvDqOPHTgmada7tlpynPqWQ&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYeHmm3R92x7I-BIdI-3RvDqOPHTgmada7tlpynPqWQ&s=10" group-title="BIEN+",
 https://sdmax111.provegooott.com/30_.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7ZU1tY3ou8GotDUjbVh1S9TevX8zcc9DXPsPmXapQA&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7ZU1tY3ou8GotDUjbVh1S9TevX8zcc9DXPsPmXapQA&s=10" group-title="BIEN+",
 http://135.125.109.73:9000/beinsport9_.m3u8
 
 
-#EXTINF:0 tvg-name="BEIN SPORTS NEWS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5f4mmZnwSfqzSTFTEZQasdn1YX6LSr8DUw&s" group-title="BIEN+"
+#EXTINF:0 tvg-name="BEIN SPORTS NEWS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5f4mmZnwSfqzSTFTEZQasdn1YX6LSr8DUw&s" group-title="BIEN+",
 http://135.125.109.73:9000/beinsportnew_.m3u8
 
 
-#EXTINF:0 tvg-name="Thmanyah 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5C91FcCktGmqgXgDHmYW7o47SZnJcFwaCyLuTFw0VXbdKvKAt3JwSKU&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="Thmanyah 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5C91FcCktGmqgXgDHmYW7o47SZnJcFwaCyLuTFw0VXbdKvKAt3JwSKU&s=10" group-title="BIEN+",
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148113.m3u8
 
 
-#EXTINF:0 tvg-name="Thmanyah 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5C91FcCktGmqgXgDHmYW7o47SZnJcFwaCyLuTFw0VXbdKvKAt3JwSKU&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="Thmanyah 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5C91FcCktGmqgXgDHmYW7o47SZnJcFwaCyLuTFw0VXbdKvKAt3JwSKU&s=10" group-title="BIEN+",
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148123.m3u8
 
 
-#EXTINF:0 tvg-name="Thmanyah 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5C91FcCktGmqgXgDHmYW7o47SZnJcFwaCyLuTFw0VXbdKvKAt3JwSKU&s=10" group-title="BIEN+"
+#EXTINF:0 tvg-name="Thmanyah 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5C91FcCktGmqgXgDHmYW7o47SZnJcFwaCyLuTFw0VXbdKvKAt3JwSKU&s=10" group-title="BIEN+",
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148131.m3u8
 
 
@@ -748,7 +745,7 @@ http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148131.m3u8
 http://ip.01live.club:8080/play/live.php?mac=00:1A:79:B3:63:24&stream=46482&extension=ts
 
 
-#EXTINF:0 tvg-name="SHAID SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s" group-title="BIEN+"
+#EXTINF:0 tvg-name="SHAID SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx23AYTPxufXcXM7SN7yL7zC03LhfbenQv4ZsVx40Flw&s" group-title="BIEN+",
 http://89.47.232.165:8080/live/SorinFeraru/bDjmUgXSRu/178769.ts
 
 
