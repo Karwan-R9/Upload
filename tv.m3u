@@ -44,6 +44,10 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w17909058
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
 
+#EXTINF:0 CUID="8568" tvg-name="Kirkuk TV" tvg-logo="https://i.postimg.cc/CYWrW24y/krd.png" group-title="🇹🇯 Kurdish | کوردی",Kirkuk TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+
+
 #EXTINF:0 CUID="8520" tvg-name="Soran Entertainment" tvg-logo="https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/logo/soran.png" group-title="🇹🇯 Kurdish | کوردی",Soran Entertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 
@@ -143,10 +147,6 @@ http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 
 #EXTINF:0 CUID="8539" tvg-name="zaroktv" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="🇹🇯 Kurdish | کوردی",zaroktv
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-
-
-#EXTINF:0 CUID="8568" tvg-name="Kirkuk TV" tvg-logo="https://i.postimg.cc/CYWrW24y/krd.png" group-title="🇹🇯 Kurdish | کوردی",Kirkuk TV
-https://live.kirkuklive.live/hls/stream/index.m3u8
 
 
 #EXTINF:0 CUID="8570" tvg-name="BAHA ENTERTAINMENT" tvg-logo="https://i.postimg.cc/Sqdk22x2/baha.png" group-title="🇹🇯 Kurdish | کوردی",BAHA ENTERTAINMENT
