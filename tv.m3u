@@ -594,21 +594,24 @@ http://31.148.48.15/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:0 CUID="8828" tvg-name="Match_Futbol_1_HD" tvg-logo="https://i.postimg.cc/L6DQQTc9/logo-1-17.png" group-title="⚽ Sports | وەرزش",Match_Futbol_1_HD
 http://31.148.48.15/Match_Futbol_1_HD/index.m3u8?token=test
 
-
-#EXTINF:0 CUID="9601" tvg-name="AD-PRUM-1 4k" group-title="⚽ Sports | وەرزش",AD-PRUM-1 4k
-http://xxtv.me:8080/live/6675443218889/X56jDXzgEiStYZ/326053.m3u8
-
-
-#EXTINF:0 CUID="9602" tvg-name="AD-PRUM-2 4k" group-title="⚽ Sports | وەرزش",AD-PRUM-2 4k
-http://xxtv.me:8080/live/6675443218889/X56jDXzgEiStYZ/326054.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NKWmY3GE9u2lEfxGpR2Q7d5QAbwd50VFv8qqWhuMFg&s=10" group-title="⚽ Sports | وەرزش",CBSChampions
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 
-#EXTINF:0 CUID="9603" tvg-name="AD-PRUM-1" group-title="⚽ Sports | وەرزش",AD-PRUM-1
-http://sa.savpn.xyz/live/78965415869/780928/1142.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NKWmY3GE9u2lEfxGpR2Q7d5QAbwd50VFv8qqWhuMFg&s=10" group-title="⚽ Sports | وەرزش",CBS Sports HQ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 
-#EXTINF:0 CUID="9604" tvg-name="AD-PRUM-2" group-title="⚽ Sports | وەرزش",AD-PRUM-2
-http://sa.savpn.xyz/live/78965415869/780928/1141.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10" group-title="⚽ Sports | وەرزش",ESPN 3
+http://46.151.196.223:14444/
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10" group-title="⚽ Sports | وەرزش",ESPN 5 SD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts//sa.savpn.xyz/live/78965415869/780928/1141.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2nYkRWUvQ7EEJ3pfI-_sDpZ2wcvcVPMATYdzQEVa2A&s=10" group-title="⚽ Sports | وەرزش",Laliga Inside
+http://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 
 
 #EXTINF:0 CUID="58830" tvg-name="Football" group-title="⚽ Sports | وەرزش",Football
@@ -629,6 +632,15 @@ https://live.teleradiocom.tj/5/3m.m3u8
 
 #EXTINF:-1 tvg-name="RealMadridTV.es@SD" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png" group-title="⚽ Sports | وەرزش",Real Madrid TV
 http://176.65.146.237:8401/play/a0ak/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Barca TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomEBG6nwr5hePaGcRXMqhsYFl6xI6blUhK_AaRdw4gg&s=10" group-title="⚽ Sports | وەرزش",Barca TV
+http://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lFnUDCLavvURGgFf03qM2wwU25vYuBIk524a-29NMA&s=10" group-title="⚽ Sports | وەرزش",INTER TV
+http://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
 
 
 #EXTINF:-1 tvg-name="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="⚽ Sports | وەرزش",DAZN Combat
