@@ -502,6 +502,7 @@ https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/playlist.m3
 
 #EXTINF:0 CUID="10751" tvg-name="NRT Sport HD" tvg-logo="https://i.postimg.cc/bypd9X7q/nrt-sport.png" group-title="⚽ Sports | وەرزش",NRT Sport HD
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
 
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4K" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="⚽ Sports | وەرزش",AVA Sport
 http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358221?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
@@ -515,6 +516,20 @@ http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358229?token=yHXUHH.X
 
 #EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="⚽ Sports | وەرزش",MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+
+
+
+#EXTINF:0 CUID="8601" tvg-name="DUHOK SPORTS" tvg-logo="
+"https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" group-title="⚽ Sports | وەرزش",DUHOK SPORTS
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358226?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+
+
+#EXTINF:0 CUID="8601" tvg-name="ZAXO SPORT" tvg-logo="https://karwan.tv/wp-content/uploads/zaxo-sport-528x297.jpg" group-title="⚽ Sports | وەرزش",ZAXO SPORT
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:18:1C:1E&stream=638689&extension=ts&play_token=46pq2nYA2m
+
+
+#EXTINF:0 CUID="22883" tvg-name="GEWHER SPORT" tvg-logo="https://karwan.tv/wp-content/uploads/gewher-sport.jpg" group-title="⚽ Sports | وەرزش",GEWHER SPORT
+https://iptv-link.short.gy/Gewher.m3u8
 
 
 
@@ -961,7 +976,7 @@ http://lukatv.net:8880/375509625021/697b02f628340.16012/12355
 https://raw.githubusercontent.com/Karwan-R9/Upload/refs/heads/master/video/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="» ALWAN SPORTS",ALWAN SPORT 1 4K
-http://atlan2025.me:80/Rochdi70sam/d3hm7lsqrh/1641605
+https://py.dencreak.com/alwan_hd1.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="» ALWAN SPORTS",ALWAN SPORT 2 4K
 http://atlan2025.me:80/Rochdi70sam/d3hm7lsqrh/1641606
