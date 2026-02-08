@@ -703,11 +703,11 @@ http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114053&extension=ts
 
 
 #EXTINF:-1 tvg-name="4146" tvg-name="beIN SPORTS 4K 2" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="» beIN SPORTS 4K",beIN SPORTS 2
-https://tv.fan7live.workers.dev/live/beINAR2/index.m3u8
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=2&extension=ts
 
 
 #EXTINF:-1 tvg-name="3118" tvg-name="beIN SPORTS 4K 3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="» beIN SPORTS 4K",beIN SPORTS 3
-https://tv.fan7live.workers.dev/live/beINAR3/index.m3u8
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=4&extension=ts
 
 #EXTINF:-1 tvg-name="369764" tvg-name="beIN SPORTS 4K 4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="» beIN SPORTS 4K",beIN SPORTS 4
 https://tv.fan7live.workers.dev/live/beINAR4/index.m3u8
