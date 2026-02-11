@@ -1,0 +1,285 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_1
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_2
+http://135.125.109.73:9000/beinsport2_.m3u8
+
+
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_3
+http://135.125.109.73:9000/beinsport3_.m3u8
+
+
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_4
+http://135.125.109.73:9000/beinsport4_.m3u8
+
+
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_5
+http://135.125.109.73:9000/beinsport5_.m3u8
+
+
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_6
+http://135.125.109.73:9000/beinsport6_.m3u8
+
+
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_9
+http://135.125.109.73:9000/beinsport9_.m3u8
+
+
+#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",سورة البقرة
+https://server16.mp3quran.net/M_Alfaqih/Rewayat-Hafs-A-n-Assem/002.mp3
+
+
+#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_NEWS
+http://135.125.109.73:9000/beinsportnew_.m3u8
+
+
+#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",أبوظبي سبورت
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_dash/index.mpd
+
+
+#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ابوظبي
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index_adtv_audio_enc_ara.m3u8
+
+
+#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",شارقة
+https://live.kwikmotion.com/smcottlive/ott1.smil/smcottpublish/ott1_source/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_
+http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22201.ts
+
+
+#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",be3
+http://4.team.ga:80/ch229/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6PfyTccqMC2IDIRb7cqpWyA7EJv1ajePZYzTKxkDV4C
+
+
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",سورة البقرة فارس عباد
+https://server8.mp3quran.net/frs_a/002.mp3
+
+
+#EXTINF:-1 group-title="hani" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHAIHD_FIFA_PLUS
+https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxee3MeWtb_sjE1YsrSdSP8sHkrXKrfI6J-cFqrTPzWw&s",Sportstars 1 (gak support wifi indih*me)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUC9zqjwXZwDc8Fi_saHNiLQweZAe6iEcYXUmpIyjKw&s=10",Sportstars 2 (gak support wifi indih*me)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCvNL21xC0G70TVk-GF320HJ6MBT7ioIlEQv_8rMdYw&s=10",Sportstars 3 (gak support wifi indih*me)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+
+
+#EXTINF:-1 ,like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fightsport.png",Fight Sports (gak support wifi indih*me)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.postimg.cc/9XvNkQjH/images.jpg",Alwan Sport 1
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641624.ts
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.postimg.cc/9XvNkQjH/images.jpg",Alwan Sport 2
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641625.ts
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.postimg.cc/9XvNkQjH/images.jpg",Alwan Sport 3
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.ts
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.postimg.cc/9XvNkQjH/images.jpg",Alwan Sport 4
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641627.ts
+
+
+#EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://klik.tvri.go.id/
+http://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.postimg.cc/9XvNkQjH/images.jpg",Alwan Sport 5
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641628.ts
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.postimg.cc/9XvNkQjH/images.jpg",Alwan Sport 6
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641629.ts
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomEBG6nwr5hePaGcRXMqhsYFl6xI6blUhK_AaRdw4gg&s=10",BARCA TV
+http://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaNlWPd4PxFe13xZL68DR45h4OrEAJmAGFsojJjZXxw&s=10",Big 12 Studios
+http://d18pj8s9gbivdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zekbh1r7qavoe/The_Big_12.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NKWmY3GE9u2lEfxGpR2Q7d5QAbwd50VFv8qqWhuMFg&s=10",CBS Golazo Network
+http://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NKWmY3GE9u2lEfxGpR2Q7d5QAbwd50VFv8qqWhuMFg&s=10",CBSChampions
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NKWmY3GE9u2lEfxGpR2Q7d5QAbwd50VFv8qqWhuMFg&s=10",CBS Sports HQ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 3
+http://46.151.196.223:14444/
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 5 SD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF4Pttmjdv3_RAbUrByA_Ziv7Fn58x6B-fuNmgaFJllg&s=10",ETB Sport
+http://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lFnUDCLavvURGgFf03qM2wwU25vYuBIk524a-29NMA&s=10",INTER TV
+http://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QLRSp6XcqEwKHdbGSjpYTuAeI90NnVJzJX1Wp-8f6g&s=10",JTBC Golf KR
+http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJKF2oRvANM0EoMFoRvsXhMBUcgGBjXoDrGDNz8CVzg&s=10",JTBC Golf & Sports KR
+http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2nYkRWUvQ7EEJ3pfI-_sDpZ2wcvcVPMATYdzQEVa2A&s=10",Laliga Inside
+http://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsTU5heTAFtGIv1BJDUGlITBdszZxqPoAJXbxFBfi8A&s=10",OMAN SPORT
+http://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGVLgLCBdkBSVEZVoSbPO_bfT0SvD8s403lSD5-hz_w&s=10",RAI SPORT
+http://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1eKn6VtzgT4WTqJp033bUjKmg0OgNPT7TjQjWNMCfQ&s=10",REAL MADRID TV
+http://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10",SPOTV 1 (gak support wifi indih*me)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10",SPOTV 2 (gak support wifi indih*me)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+#EXTINF:-1 ,like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+
+
+#EXTINF:-1 ,like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg",BEIN SPORTS Qatar SD
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHjYvy9kcsUjR6SO_UtFoOP13dzwZsM8tOu30oQaFYQ&s=10",BEIN SPORTS XTRA
+http://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png",J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png",J SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png",J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png",J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+
+#EXTINF:-1 group-title="CHANNEL CLUB BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lFnUDCLavvURGgFf03qM2wwU25vYuBIk524a-29NMA&s=10",INTER TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+
+#EXTINF:-1 group-title="CHANNEL CLUB BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1eKn6VtzgT4WTqJp033bUjKmg0OgNPT7TjQjWNMCfQ&s=10",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg",MONOMAX1
+https://goldtv.asia/mnmax1.m3u8
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg",MONOMAX2
+https://goldtv.asia/mnmax2.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",Mahar BAWDI
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",Mahar BAWDI 2
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",MRTV_4_HD
+https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",CHANNEL7_HD
+https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/LiveOutput/manifest.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",MAHAR TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",MAHAR SPORTS
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",DVB NEW
+https://live-stream.dvb.no/hls/stream_high/index.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",GOLDEN
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",C LIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",MWD SCHOOL
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",ForatuneTV HD
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
