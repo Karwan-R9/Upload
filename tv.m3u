@@ -17,7 +17,7 @@ http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 
 #EXTINF:0 CUID="48091" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT HD.png" group-title="🇹🇯 Kurdish | کوردی",NRT HD
-http://lukatv.net:8880/375509625021/697b02f628340.16012/287878
+https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD.m3u8
 
 
 #EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="🇹🇯 Kurdish | کوردی",Channel 8 HD
