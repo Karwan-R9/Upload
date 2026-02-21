@@ -306,6 +306,8 @@ http://51.89.152.180/live/BahraHD/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 
 
+#EXTINF:0 CUID="8504" tvg-name="BATIFA TV" tvg-logo="https://i.postimg.cc/8zcXPNJq/Pics-Art-25-08-01-20-03-35-104.PNG2" group-title="🇹🇯 Kurdish | کوردی",BATIFA TV
+https://live20.bozztv.com/giatv/giatv-batifa/BATIFA-TV/playlist.m3u8
 
 
 
@@ -500,6 +502,7 @@ http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 
 
 
+
 ########### ⚽ Sports | وەرزش ###########🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️
 ##################################🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️
 ##################################🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️🅰️
@@ -518,7 +521,7 @@ https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
 http://181.233.124.36:8080/live/269468304324/6998a804e92ab/1537174.ts?token=cbXyaa.UbUaab.y.fdyyyb.ydHdbUzyzH.X.y.IQ.ts.0ed265cab5a134e3caf4d73c0eb5abe902d415c5b4b5d57a50418c6308d7138c...YWN0aXZlc3RvcmUuc3BhY2U6MjA4Ng==
 
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4K" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="⚽ Sports | وەرزش",AVA Sport 4k
-https://live20.bozztv.com/giatv/giatv-batifa/BATIFA-TV/playlist.m3u8
+http://109.123.245.192/Avasport11/index.m3u8
 
 #EXTINF:0 CUID="22883" tvg-name="LD SPORT 4K" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="⚽ Sports | وەرزش",LD SPORT 4K
 http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358229?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
