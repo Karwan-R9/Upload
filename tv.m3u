@@ -515,7 +515,7 @@ https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
 
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4K" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="⚽ Sports | وەرزش",AVA Sport
-http://109.123.245.192/Avasport11/index.m3u8
+
 
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4K" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="⚽ Sports | وەرزش",AVA Sport 4k
 https://live20.bozztv.com/giatv/giatv-batifa/BATIFA-TV/playlist.m3u8
